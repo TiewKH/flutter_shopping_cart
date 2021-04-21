@@ -1,3 +1,6 @@
+# Tiew Kee Hui's Fork
+Updated stuff to make it work on Flutter 2.0.5 + Dart 2.12.3
+
 # ShoppingList 
 Flutter example of shopping app using Redux architecture by using [flutter_redux](https://pub.dartlang.org/packages/flutter_redux) package.
 
